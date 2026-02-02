@@ -6,7 +6,7 @@ O projeto nasce da necessidade de quem está começando — ou recomeçando — 
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Criar uma base sólida de aprendizado em Tecnologia da Informação, ajudando estudantes a:
 
@@ -18,39 +18,39 @@ Criar uma base sólida de aprendizado em Tecnologia da Informação, ajudando es
 
 ---
 
-## 🧠 Conceito
+## Conceito
 
 O **Corvo** simboliza visão, inteligência e aprendizado ao longo do tempo.  
 Assim como o corvo observa antes de agir, este projeto propõe estudar com estratégia, clareza e propósito.
 
 ---
 
-## 🚀 Funcionalidades (Versão Inicial)
+## Funcionalidades (Versão Inicial)
 
-- 📚 Plano de estudos estruturado do **iniciante ao avançado**
-- 🗂️ Organização por níveis e tópicos
-- ✅ Acompanhamento de progresso
-- 📝 Registro de observações pessoais
-- 🌱 Base para evolução futura (banco de dados, autenticação, frontend)
+- Plano de estudos estruturado do **iniciante ao avançado**
+- Organização por níveis e tópicos
+- Acompanhamento de progresso
+- Registro de observações pessoais
+- Base para evolução futura (banco de dados, autenticação, frontend)
 
 ---
 
-## 🗺️ Estrutura do Plano de Estudos
+## Estrutura do Plano de Estudos
 
-### 🔰 Nível Iniciante
+## Nível Iniciante
 - Introdução à Tecnologia da Informação
 - Lógica de Programação
 - Git e GitHub
 - Python Básico
 
-### 🟡 Nível Intermediário
+## Nível Intermediário
 - Programação Orientada a Objetos
 - APIs REST
 - FastAPI
 - Banco de Dados (SQL)
 - Docker Básico
 
-### 🔴 Nível Avançado
+### Nível Avançado
 - Arquitetura de Software
 - Segurança da Informação
 - Cloud Computing
@@ -59,7 +59,7 @@ Assim como o corvo observa antes de agir, este projeto propõe estudar com estra
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - Python
 - FastAPI
@@ -68,7 +68,7 @@ Assim como o corvo observa antes de agir, este projeto propõe estudar com estra
 
 ---
 
-## 📁 Estrutura do Projeto
+### Estrutura do Projeto
 
 ```text
 corvo-sys-learning/
